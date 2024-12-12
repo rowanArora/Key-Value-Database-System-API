@@ -1,0 +1,26 @@
+Starting put experiment: 
+1MB of puts took 0.322031 seconds.
+1MB of random gets took 17.44 seconds.
+2MB of puts took 0.978461 seconds.
+1MB of random gets took 15.6534 seconds.
+4MB of puts took 2.537 seconds.
+1MB of random gets took 15.6541 seconds.
+8MB of puts took 6.46044 seconds.
+1MB of random gets took 15.5597 seconds.
+16MB of puts took 15.5953 seconds.
+1MB of random gets took 28.7911 seconds.
+32MB of puts took 35.7854 seconds.
+1MB of random gets took 45.4341 seconds.
+64MB of puts took 86.9421 seconds.
+1MB of random gets took 61.8461 seconds.
+128MB of puts took 232.563 seconds.
+1MB of random gets took 77.3842 seconds.
+256MB of puts took 709.401 seconds.
+1MB of random gets took 91.4747 seconds.
+512MB of puts took 2446.33 seconds.
+1MB of random gets took 107.15 seconds.
+1024MB of puts took 8910.24 seconds.
+1MB of random gets took 144.42 seconds.
+Done!
+Data successfully written to ./../experiments/step3put.csv
+Data successfully written to ./../experiments/step3get.csv

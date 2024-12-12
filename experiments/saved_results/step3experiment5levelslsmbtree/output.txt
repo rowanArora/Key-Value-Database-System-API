@@ -1,0 +1,39 @@
+Generating data: 
+Starting put experiment: 
+1MB of puts took 0.308486 seconds.
+1MB of random gets took 0.747392 seconds.
+1MB of random scans took 0.598001 seconds.
+2MB of puts took 1.04677 seconds.
+1MB of random gets took 1.45528 seconds.
+1MB of random scans took 1.10482 seconds.
+4MB of puts took 2.89147 seconds.
+1MB of random gets took 1.656 seconds.
+1MB of random scans took 1.09485 seconds.
+8MB of puts took 6.57811 seconds.
+1MB of random gets took 2.68381 seconds.
+1MB of random scans took 1.16909 seconds.
+16MB of puts took 15.0465 seconds.
+1MB of random gets took 17.0161 seconds.
+1MB of random scans took 16.2027 seconds.
+32MB of puts took 36.3413 seconds.
+1MB of random gets took 31.4347 seconds.
+1MB of random scans took 31.7421 seconds.
+64MB of puts took 90.5859 seconds.
+1MB of random gets took 36.7937 seconds.
+1MB of random scans took 42.7225 seconds.
+128MB of puts took 239.575 seconds.
+1MB of random gets took 39.2061 seconds.
+1MB of random scans took 44.166 seconds.
+256MB of puts took 734.781 seconds.
+1MB of random gets took 0.950447 seconds.
+1MB of random scans took 0.897779 seconds.
+512MB of puts took 2507.21 seconds.
+1MB of random gets took 0.902796 seconds.
+1MB of random scans took 0.920197 seconds.
+1024MB of puts took 8773.91 seconds.
+1MB of random gets took 0.833651 seconds.
+1MB of random scans took 0.873066 seconds.
+Done!
+Data successfully written to ./../experiments/step3put.csv
+Data successfully written to ./../experiments/step3get.csv
+Data successfully written to ./../experiments/step3scan.csv
